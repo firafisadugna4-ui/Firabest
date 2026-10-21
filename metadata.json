@@ -1,0 +1,6 @@
+{
+  "name": "Iskormee - Wallpapers & Keyboard Styles",
+  "description": "Discover and download stunning HD/4K wallpapers and custom RGB keyboard themes, or generate AI wallpapers and keyboard styles on Iskormee.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
